@@ -1,0 +1,1280 @@
+﻿Log file open, 03/04/20 15:40:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: WillSmith
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.057094
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: G:/UNREAL/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Engine.ini]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.03.04-12.40.03:039][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.03.04-12.40.03:040][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Engine.ini]
+[2020.03.04-12.40.03:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Engine.ini]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Engine.ini]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.04-12.40.03:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Engine.ini]
+[2020.03.04-12.40.03:041][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Engine.ini]
+[2020.03.04-12.40.03:046][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.04-12.40.03:046][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.04-12.40.03:047][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.04-12.40.03:047][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.04-12.40.03:047][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.04-12.40.03:049][  0]LogHAL: Display: Platform has ~ 16 GB [17146286080 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.04-12.40.03:049][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.04-12.40.03:049][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.04-12.40.03:049][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:049][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Scalability.ini]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.04-12.40.03:050][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.04-12.40.03:050][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.04-12.40.03:051][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.04-12.40.03:051][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Config/Windows/Engine.ini]
+[2020.03.04-12.40.03:051][  0]LogInit: Computer: DESKTOP-RQSSKR0
+[2020.03.04-12.40.03:051][  0]LogInit: User: Dodoize
+[2020.03.04-12.40.03:051][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.04-12.40.03:051][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.04-12.40.03:051][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.03.04-12.40.03:051][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.04-12.40.03:051][  0]LogMemory: Process Physical Memory: 104.98 MB used, 104.99 MB peak
+[2020.03.04-12.40.03:051][  0]LogMemory: Process Virtual Memory: 99.86 MB used, 99.86 MB peak
+[2020.03.04-12.40.03:051][  0]LogMemory: Physical Memory: 5135.93 MB used,  11216.05 MB free, 16351.97 MB total
+[2020.03.04-12.40.03:051][  0]LogMemory: Virtual Memory: 5121.24 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.03.04-12.40.03:054][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.04-12.40.03:068][  0]LogInit: Using OS detected language (ru-RU).
+[2020.03.04-12.40.03:068][  0]LogInit: Using OS detected locale (ru-RU).
+[2020.03.04-12.40.03:069][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2020.03.04-12.40.03:069][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2020.03.04-12.40.03:069][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2020.03.04-12.40.03:069][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2020.03.04-12.40.03:069][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2020.03.04-12.40.03:069][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2020.03.04-12.40.03:069][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2020.03.04-12.40.03:069][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2020.03.04-12.40.03:070][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.04-12.40.03:093][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.04-12.40.03:093][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.04-12.40.03:198][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.04-12.40.03:198][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.04-12.40.03:198][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.04-12.40.03:199][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.04-12.40.03:256][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.03.04-12.40.03:256][  0]LogD3D11RHI:       4018/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.03.04-12.40.03:258][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.04-12.40.03:258][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.04-12.40.03:258][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.04-12.40.03:263][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.04-12.40.03:264][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.04-12.40.03:264][  0]LogWindows: EnumDisplayDevices:
+[2020.03.04-12.40.03:264][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2020.03.04-12.40.03:264][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2020.03.04-12.40.03:264][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.03.04-12.40.03:264][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.03.04-12.40.03:265][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.04-12.40.03:265][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.03.04-12.40.03:265][  0]LogD3D11RHI:   Driver Version: 442.50 (internal:26.21.14.4250, unified:442.50)
+[2020.03.04-12.40.03:265][  0]LogD3D11RHI:      Driver Date: 2-24-2020
+[2020.03.04-12.40.03:265][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2020.03.04-12.40.03:305][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.04-12.40.03:305][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.04-12.40.03:337][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.04-12.40.03:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.04-12.40.03:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.04-12.40.03:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.04-12.40.03:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.04-12.40.03:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.04-12.40.03:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.04-12.40.03:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.04-12.40.03:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.04-12.40.03:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.04-12.40.03:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.04-12.40.03:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.04-12.40.03:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.04-12.40.03:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.04-12.40.03:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.04-12.40.03:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.04-12.40.03:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.04-12.40.03:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.04-12.40.03:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.04-12.40.03:741][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.04-12.40.03:743][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.04-12.40.03:761][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Intermediate/Shaders/WorkingDirectory/8488/).
+[2020.03.04-12.40.03:761][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dodoize/AppData/Local/Temp/UnrealShaderWorkingDir/0F85CEBB43D156D65608D3BBFEFEB2D9/'.
+[2020.03.04-12.40.03:761][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.04-12.40.03:761][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.04-12.40.03:761][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.04-12.40.04:416][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.04-12.40.04:466][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/Dodoize/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.04-12.40.04:466][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dodoize/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.04-12.40.04:466][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../DeDesktop/РАБОТА/Projects/WillSmith/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.04-12.40.04:466][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.04-12.40.04:466][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../DeDesktop/РАБОТА/Projects/WillSmith/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.04-12.40.04:466][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.04-12.40.04:475][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.04-12.40.04:475][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.04-12.40.04:475][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.04-12.40.04:476][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dodoize/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.04-12.40.04:476][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.04-12.40.04:476][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.04-12.40.04:498][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.04-12.40.04:500][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.04-12.40.04:501][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.04-12.40.04:542][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2020.03.04-12.40.04:780][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.04-12.40.04:912][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.04-12.40.04:913][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.04-12.40.04:913][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.04-12.40.04:913][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.04-12.40.04:913][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.04-12.40.04:925][  0]LogNetVersion: WillSmith 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3377550781)
+[2020.03.04-12.40.06:001][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.252775 seconds
+[2020.03.04-12.40.06:009][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.03.04-12.40.06:009][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.03.04-12.40.06:009][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.04-12.40.06:433][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.04-12.40.06:436][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.04-12.40.06:496][  0]SourceControl: Source control is disabled
+[2020.03.04-12.40.06:496][  0]SourceControl: Source control is disabled
+[2020.03.04-12.40.06:497][  0]SourceControl: Source control is disabled
+[2020.03.04-12.40.06:498][  0]SourceControl: Source control is disabled
+[2020.03.04-12.40.06:498][  0]SourceControl: Source control is disabled
+[2020.03.04-12.40.06:504][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.04-12.40.06:504][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.04-12.40.06:563][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.04-12.40.06:572][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.04-12.40.06:572][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.04-12.40.06:645][  0]LogOcInput: OculusInput pre-init called
+[2020.03.04-12.40.06:650][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.04-12.40.06:650][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.04-12.40.06:708][  0]LogEngine: Initializing Engine...
+[2020.03.04-12.40.06:708][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.04-12.40.06:709][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.04-12.40.07:052][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.04-12.40.07:057][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.04-12.40.07:076][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.04-12.40.07:076][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.04-12.40.07:076][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.04-12.40.07:076][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.04-12.40.07:076][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.04-12.40.07:076][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.04-12.40.07:076][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.04-12.40.07:076][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.04-12.40.07:076][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.04-12.40.07:077][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.04-12.40.07:096][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.04-12.40.07:097][  0]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.03.04-12.40.07:097][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.04-12.40.07:097][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.04-12.40.07:097][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.04-12.40.07:097][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.04-12.40.07:097][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.04-12.40.07:097][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.04-12.40.07:097][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.04-12.40.07:144][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.03.04-12.40.07:149][  0]LogInit: FAudioDevice initialized.
+[2020.03.04-12.40.07:149][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.04-12.40.07:220][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/Dodoize/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.04-12.40.07:224][  0]LogInit: Texture streaming: Enabled
+[2020.03.04-12.40.07:231][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.04-12.40.07:231][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.04-12.40.07:232][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.04-12.40.09:814][  0]LogMaterial: Verifying Global Shaders for PCD3D_ES31
+[2020.03.04-12.40.09:816][  0]LogInit: Transaction tracking system initialized
+[2020.03.04-12.40.09:825][  0]BlueprintLog: New page: Editor Load
+[2020.03.04-12.40.09:847][  0]LocalizationService: Localization service is disabled
+[2020.03.04-12.40.09:886][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.04-12.40.09:886][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.04-12.40.10:341][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.04-12.40.10:341][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.04-12.40.10:400][  0]LogFileCache: Scanning file cache for directory 'G:/DeDesktop/РАБОТА/Projects/WillSmith/Content/' took 0.06s
+[2020.03.04-12.40.10:882][  0]SourceControl: Source control is disabled
+[2020.03.04-12.40.10:882][  0]Cmd: MAP LOAD FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Level/gameLoading.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.04-12.40.10:891][  0]LightingResults: New page: Lighting Build
+[2020.03.04-12.40.10:892][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-12.40.10:892][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-12.40.10:892][  0]MapCheck: New page: Map Check
+[2020.03.04-12.40.10:892][  0]LightingResults: New page: Lighting Build
+[2020.03.04-12.40.10:915][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.03.04-12.40.11:444][  0]LogAIModule: Creating AISystem for world gameLoading
+[2020.03.04-12.40.11:446][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.04-12.40.11:467][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.03.04-12.40.11:467][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.04-12.40.11:468][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,205ms to complete.
+[2020.03.04-12.40.11:468][  0]LogFileHelpers: Loading map 'gameLoading' took 0.585
+[2020.03.04-12.40.11:881][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-12.40.11:890][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-12.40.11:897][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-12.40.11:903][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-12.40.11:933][  0]LogCollectionManager: Loaded 0 collections in 0.001630 seconds
+[2020.03.04-12.40.11:944][  0]LogFileCache: Scanning file cache for directory 'G:/DeDesktop/РАБОТА/Projects/WillSmith/Saved/Collections/' took 0.00s
+[2020.03.04-12.40.11:944][  0]LogFileCache: Scanning file cache for directory 'G:/DeDesktop/РАБОТА/Projects/WillSmith/Content/Developers/Dodoize/Collections/' took 0.00s
+[2020.03.04-12.40.11:944][  0]LogFileCache: Scanning file cache for directory 'G:/DeDesktop/РАБОТА/Projects/WillSmith/Content/Collections/' took 0.00s
+[2020.03.04-12.40.11:944][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 3015 classes and 717 folders.
+[2020.03.04-12.40.11:946][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.04-12.40.14:478][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.03.04-12.40.14:555][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.03.04-12.40.14:618][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.04-12.40.14:620][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.04-12.40.14:695][  0]LogSlate: Took 0.072238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.04-12.40.15:096][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.03.04-12.40.15:179][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.04-12.40.15:179][  0]LogLoad: (Engine Initialization) Total time: 13.64 seconds
+[2020.03.04-12.40.15:179][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.04-12.40.15:340][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.04-12.40.15:403][  1]LogFileCache: Retrieving MD5 hashes for directory 'G:/DeDesktop/РАБОТА/Projects/WillSmith/Content/' took 0.12s
+[2020.03.04-12.40.15:928][  7]LogAssetRegistry: Asset discovery search completed in 11.3867 seconds
+[2020.03.04-12.40.15:931][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.03.04-12.40.16:619][  9]LogSlate: Took 0.021930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.04-12.40.19:625][ 18]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.04-12.40.56:796][ 18]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.03.04-12.40.56:796][ 18]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.03.04-12.40.56:796][ 18]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.03.04-12.40.56:796][ 18]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.03.04-12.40.56:796][ 18]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2020.03.04-12.40.56:797][ 18]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.03.04-12.40.56:995][ 18]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.03.04-12.40.57:305][ 18]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.03.04-12.40.58:624][ 18]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.04-12.40.59:061][ 19]LogSlate: Took 0.018688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.04-12.41.03:308][421]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/ThirdPersonCharacter4B3169A4490C6D8B1B32DA9489E8D345.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.03.04-12.41.03:320][421]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.03.04-12.41.03:320][421]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.03.04-12.41.03:932][486]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.03.04-12.41.03:936][486]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.03.04-12.41.03:943][486]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-12.41.03:943][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-12.41.04:859][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/gameLoading" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Level/gameLoading.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.04-12.41.04:893][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.03.04-12.41.04:914][577]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/gameLoading1DB0B541433A031072177187CB652977.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Level/gameLoading.umap'
+[2020.03.04-12.41.04:955][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/gameLoading_BuiltData" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Level/gameLoading_BuiltData.uasset" SILENT=true
+[2020.03.04-12.41.05:001][577]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/gameLoading_BuiltDataF0046FDE44F384DCAC0B11A2A03080E9.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Level/gameLoading_BuiltData.uasset'
+[2020.03.04-12.41.05:020][577]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.04-12.41.05:020][577]LogContentValidation: Display: Validating World /Game/Level/gameLoading.gameLoading
+[2020.03.04-12.41.05:020][577]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/gameLoading_BuiltData.gameLoading_BuiltData
+[2020.03.04-12.41.05:427][619]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.04-12.41.05:446][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-12.41.05:446][619]PIE: New page: PIE session: gameLoading (4 мар. 2020 г., 18:41:05)
+[2020.03.04-12.41.05:447][619]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.04-12.41.05:448][619]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.04-12.41.05:448][619]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_gameLoading
+[2020.03.04-12.41.05:449][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000689s)
+[2020.03.04-12.41.05:449][619]LogAIModule: Creating AISystem for world gameLoading
+[2020.03.04-12.41.05:450][619]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2020.03.04-12.41.05:450][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/gameLoading.gameLoading to /Game/Level/UEDPIE_0_gameLoading.gameLoading (0.001912s)
+[2020.03.04-12.41.05:476][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.03.04-12.41.05:476][619]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.04-12.41.05:476][619]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.04-12.41.05:476][619]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.04-12.41.05:476][619]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.04-12.41.05:476][619]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.04-12.41.05:476][619]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.04-12.41.05:476][619]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.04-12.41.05:476][619]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.04-12.41.05:476][619]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.04-12.41.05:476][619]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.04-12.41.05:492][619]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.04-12.41.05:492][619]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.03.04-12.41.05:492][619]LogAudioMixer: Display: Is Default: Yes
+[2020.03.04-12.41.05:492][619]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.04-12.41.05:492][619]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.04-12.41.05:492][619]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.04-12.41.05:492][619]LogAudioMixer: Display: Channel Order:
+[2020.03.04-12.41.05:492][619]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.04-12.41.05:492][619]LogAudioMixer: Display: 1: FrontRight
+[2020.03.04-12.41.05:535][619]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.03.04-12.41.05:537][619]LogInit: FAudioDevice initialized.
+[2020.03.04-12.41.05:571][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-12.41.05:573][619]LogLoad: Game class is 'GameModeBase'
+[2020.03.04-12.41.05:574][619]LogWorld: Bringing World /Game/Level/UEDPIE_0_gameLoading.gameLoading up for play (max tick rate 0) at 2020.03.04-15.41.05
+[2020.03.04-12.41.05:574][619]LogWorld: Bringing up level for play took: 0.000416
+[2020.03.04-12.41.05:574][619]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.03.04-12.41.05:577][619]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.03.04-12.41.05:581][619]PIE: Play in editor start time for /Game/Level/UEDPIE_0_gameLoading 0,462
+[2020.03.04-12.41.05:619][620]LogRenderer: Reallocating scene render targets to support 1208x952 Format 10 NumSamples 1 (Frame:1).
+[2020.03.04-12.41.11:673][314]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.04-12.41.11:673][314]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.04-12.41.11:673][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-12.41.11:673][314]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_gameLoading
+[2020.03.04-12.41.11:690][314]LogSlate: Window 'WillSmith Game Preview Standalone (64-bit/PCD3D_ES31)' being destroyed
+[2020.03.04-12.41.11:695][314]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.04-12.41.11:695][314]LogWorld: UWorld::CleanupWorld for gameLoading, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-12.41.11:695][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-12.41.11:699][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-12.41.11:705][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-12.41.11:735][314]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.04-12.41.11:772][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.03.04-12.41.11:782][315]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.03.04-12.41.18:045][916]LogStaticMesh: Building static mesh SM_SR_Highway001b_2w_Triple...
+[2020.03.04-12.41.18:099][916]LogStaticMesh: Built static mesh [0.05s] /Game/SnappyRoads/Meshes/SM_SR_Highway001b_2w_Triple.SM_SR_Highway001b_2w_Triple
+[2020.03.04-12.41.18:355][916]LogAIModule: Creating AISystem for world gameLevel
+[2020.03.04-12.41.18:378][916]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/gameLevel.gameLevel
+[2020.03.04-12.41.18:423][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.03.04-12.41.18:425][916]Cmd: MAP LOAD FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Level/gameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.04-12.41.18:425][916]LightingResults: New page: Lighting Build
+[2020.03.04-12.41.18:426][916]LoadErrors: New page: Loading map: gameLevel.umap
+[2020.03.04-12.41.18:426][916]LogWorld: UWorld::CleanupWorld for gameLoading, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-12.41.18:426][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-12.41.18:426][916]MapCheck: New page: Map Check
+[2020.03.04-12.41.18:426][916]LightingResults: New page: Lighting Build
+[2020.03.04-12.41.18:453][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.03.04-12.41.18:471][916]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.04-12.41.18:499][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.03.04-12.41.18:532][916]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.04-12.41.18:532][916]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,144ms to complete.
+[2020.03.04-12.41.18:532][916]LogFileHelpers: Loading map 'gameLevel' took 0.108
+[2020.03.04-12.41.19:722][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/gameLevel" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Level/gameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.04-12.41.19:801][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.03.04-12.41.19:829][  5]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/gameLevel8DEE8DE743705283A2E938B6BBBF855F.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Level/gameLevel.umap'
+[2020.03.04-12.41.19:865][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/gameLevel_BuiltData" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Level/gameLevel_BuiltData.uasset" SILENT=true
+[2020.03.04-12.41.20:322][  5]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/gameLevel_BuiltData05F30287489F3A381DFD239087F84787.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Level/gameLevel_BuiltData.uasset'
+[2020.03.04-12.41.20:336][  5]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.04-12.41.20:336][  5]LogContentValidation: Display: Validating World /Game/Level/gameLevel.gameLevel
+[2020.03.04-12.41.20:336][  5]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/gameLevel_BuiltData.gameLevel_BuiltData
+[2020.03.04-12.41.23:377][357]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.04-12.41.23:395][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-12.41.23:395][357]PIE: New page: PIE session: gameLevel (4 мар. 2020 г., 18:41:23)
+[2020.03.04-12.41.23:395][357]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_gameLevel
+[2020.03.04-12.41.23:398][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002507s)
+[2020.03.04-12.41.23:399][357]LogAIModule: Creating AISystem for world gameLevel
+[2020.03.04-12.41.23:399][357]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2020.03.04-12.41.23:399][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/gameLevel.gameLevel to /Game/Level/UEDPIE_0_gameLevel.gameLevel (0.003556s)
+[2020.03.04-12.41.23:437][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.03.04-12.41.23:437][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.04-12.41.23:438][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.04-12.41.23:438][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.04-12.41.23:438][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.04-12.41.23:438][357]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.04-12.41.23:438][357]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.04-12.41.23:438][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.04-12.41.23:438][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.04-12.41.23:438][357]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.04-12.41.23:438][357]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.04-12.41.23:453][357]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.04-12.41.23:453][357]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.03.04-12.41.23:453][357]LogAudioMixer: Display: Is Default: Yes
+[2020.03.04-12.41.23:453][357]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.04-12.41.23:453][357]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.04-12.41.23:453][357]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.04-12.41.23:453][357]LogAudioMixer: Display: Channel Order:
+[2020.03.04-12.41.23:453][357]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.04-12.41.23:453][357]LogAudioMixer: Display: 1: FrontRight
+[2020.03.04-12.41.23:495][357]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.03.04-12.41.23:497][357]LogInit: FAudioDevice initialized.
+[2020.03.04-12.41.23:553][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-12.41.23:553][357]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.04-12.41.23:555][357]LogWorld: Bringing World /Game/Level/UEDPIE_0_gameLevel.gameLevel up for play (max tick rate 0) at 2020.03.04-15.41.23
+[2020.03.04-12.41.23:555][357]LogWorld: Bringing up level for play took: 0.000890
+[2020.03.04-12.41.23:555][357]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.03.04-12.41.23:563][357]PIE: Play in editor start time for /Game/Level/UEDPIE_0_gameLevel 0,445
+[2020.03.04-12.41.27:356][796]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.04-12.41.27:361][796]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.04-12.41.27:381][796]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.04-12.41.27:381][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-12.41.27:381][796]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_gameLevel
+[2020.03.04-12.41.27:399][796]LogSlate: Window 'WillSmith Game Preview Standalone (64-bit/PCD3D_ES31)' being destroyed
+[2020.03.04-12.41.27:403][796]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.04-12.41.27:403][796]LogWorld: UWorld::CleanupWorld for gameLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-12.41.27:404][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-12.41.27:410][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-12.41.27:414][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-12.41.27:440][796]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.04-12.41.27:446][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.03.04-12.41.27:460][797]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.03.04-12.41.28:444][913]LogEditorViewport: Clicking on Actor (LMB): BP_Road_tile_001_C (Road_tile_001)
+[2020.03.04-12.41.48:408][ 70]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/RoadBlockLarge01.RoadBlockLarge01
+[2020.03.04-12.41.50:101][ 71]LogRenderer: Reallocating scene render targets to support 1232x952 Format 10 NumSamples 1 (Frame:1).
+[2020.03.04-12.41.59:983][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/RoadBlockLarge01" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Meshes/RoadBlockLarge01.uasset" SILENT=true
+[2020.03.04-12.42.00:065][881]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/RoadBlockLarge015E0B384B400EA3032CAF5EB7969E3D6A.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Meshes/RoadBlockLarge01.uasset'
+[2020.03.04-12.42.00:086][881]AssetCheck: New page: Asset Save: RoadBlockLarge01
+[2020.03.04-12.42.00:086][881]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/RoadBlockLarge01.RoadBlockLarge01
+[2020.03.04-12.42.04:095][253]LogSlate: Window 'RoadBlockLarge01' being destroyed
+[2020.03.04-12.42.04:100][253]LogSlate: Window 'RoadBlockLarge01' being destroyed
+[2020.03.04-12.42.04:119][253]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-12.42.04:119][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-12.42.26:153][809]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.04-12.42.26:153][809]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.04-12.42.29:662][809]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2020.03.04-12.42.29:688][809]LogStaticMesh: Building static mesh Road_02...
+[2020.03.04-12.42.29:701][809]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Road_02.Road_02
+[2020.03.04-12.42.31:752][947]LogActorFactory: Actor Factory created Road_02
+[2020.03.04-12.42.34:063][206]LogActorFactory: Actor Factory created Road_02
+[2020.03.04-12.42.35:785][371]Cmd: DELETE
+[2020.03.04-12.42.35:785][371]Cmd: ACTOR DELETE
+[2020.03.04-12.42.35:800][371]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.04-12.42.35:862][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.03.04-12.42.35:864][371]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2020.03.04-12.42.37:279][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Road_02" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Meshes/Road_02.uasset" SILENT=true
+[2020.03.04-12.42.37:298][501]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/Road_02C069EA14404C383C80F740B7FC9B1F61.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Meshes/Road_02.uasset'
+[2020.03.04-12.42.37:311][501]AssetCheck: New page: Asset Save: Road_02
+[2020.03.04-12.42.37:311][501]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Road_02.Road_02
+[2020.03.04-12.42.37:854][552]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Road_02.Road_02
+[2020.03.04-12.44.23:977][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Road_02" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Meshes/Road_02.uasset" SILENT=true
+[2020.03.04-12.44.24:024][321]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/Road_029372FC174397CD5B4D8E0F9678C900EA.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Meshes/Road_02.uasset'
+[2020.03.04-12.44.24:038][321]AssetCheck: New page: Asset Save: Road_02
+[2020.03.04-12.44.24:038][321]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Road_02.Road_02
+[2020.03.04-12.44.32:349][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Road_02" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Meshes/Road_02.uasset" SILENT=true
+[2020.03.04-12.44.32:368][ 29]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/Road_0245DE8A7E46EDDE8268426390E36DE863.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Meshes/Road_02.uasset'
+[2020.03.04-12.44.32:379][ 29]AssetCheck: New page: Asset Save: Road_02
+[2020.03.04-12.44.32:379][ 29]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Road_02.Road_02
+[2020.03.04-12.44.33:288][108]LogSlate: Window 'Road_02' being destroyed
+[2020.03.04-12.44.33:293][108]LogSlate: Window 'Road_02' being destroyed
+[2020.03.04-12.44.33:313][108]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-12.44.33:313][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-12.44.37:446][577]LogEditorViewport: Clicking on Actor (LMB): BP_Road_tile_001_C (Road_tile_001)
+[2020.03.04-12.44.38:532][697]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.44.44:895][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.44.44:958][261]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_00111B9535E48498104CC9DBB9A7CE5683C.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.44.44:974][261]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.44.44:974][261]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.44.50:019][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.44.50:046][731]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_001CFFF6FA04A58F3C6F44935992E4F8B2D.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.44.50:062][731]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.44.50:062][731]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.44.59:601][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.44.59:628][703]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_001BBC5055149941617B8C5CD8F4411D5E2.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.44.59:744][703]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.44.59:744][703]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.46.11:100][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.46.11:127][122]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_001B7491643410B4308E281BA9B2CB6CB15.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.46.11:140][122]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.46.11:140][122]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.46.13:600][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.46.13:626][362]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_001DD854DE4492277FB2925CD8F6472BA98.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.46.13:638][362]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.46.13:638][362]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.46.30:381][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.46.30:408][764]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_0013979493148164674693F93B541056298.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.46.30:419][764]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.46.30:419][764]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.46.33:898][126]LogEditorViewport: Clicking on Actor (LMB): BP_Road_tile_001_C (Road_tile_001)
+[2020.03.04-12.46.34:668][209]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.03.04-12.46.35:218][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SR_Highway001a_2w_Triple)
+[2020.03.04-12.46.40:934][669]LogActorFactory: Actor Factory created SM_SR_Highway001b_2w_Triple
+[2020.03.04-12.46.41:693][755]LogActorFactory: Actor Factory created SM_SR_Highway001b_2w_Triple
+[2020.03.04-12.46.43:275][911]Cmd: DELETE
+[2020.03.04-12.46.43:276][911]Cmd: ACTOR DELETE
+[2020.03.04-12.46.43:277][911]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.04-12.46.43:328][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.03.04-12.46.43:331][911]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2020.03.04-12.46.43:794][948]LogActorFactory: Actor Factory created SM_SR_Highway001c_2w_Triple
+[2020.03.04-12.46.44:274][  5]LogActorFactory: Actor Factory created SM_SR_Highway001c_2w_Triple
+[2020.03.04-12.46.44:732][ 56]Cmd: DELETE
+[2020.03.04-12.46.44:732][ 56]Cmd: ACTOR DELETE
+[2020.03.04-12.46.44:733][ 56]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.04-12.46.44:762][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.03.04-12.46.44:763][ 56]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.03.04-12.46.46:037][208]LogEditorViewport: Clicking on Actor (LMB): BP_Road_tile_001_C (Road_tile_001)
+[2020.03.04-12.47.03:387][558]Cmd: DELETE
+[2020.03.04-12.47.03:387][558]Cmd: ACTOR DELETE
+[2020.03.04-12.47.03:389][558]LogEditorActor: Deleted Actor: BP_Road_tile_001_C
+[2020.03.04-12.47.03:419][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.03.04-12.47.03:423][558]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.03.04-12.47.11:317][247]LogEditorTransaction: Undo Modify Component(s)
+[2020.03.04-12.47.32:436][201]BlueprintLog: New page: Compile BP_Road_tile_001
+[2020.03.04-12.47.32:990][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.03.04-12.47.33:422][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.47.33:458][236]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_00145EBE7434D3E23D1A749ECBB931E1CFB.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.47.33:472][236]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.47.33:472][236]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.47.41:363][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.47.41:391][935]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_001301077D840414E46F7013C8761EA1D16.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.47.41:407][935]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.47.41:407][935]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.47.49:257][710]LogEditorTransaction: Undo Delete current selection
+[2020.03.04-12.49.41:167][250]BlueprintLog: New page: Compile BP_Road_tile_001
+[2020.03.04-12.49.41:360][250]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.03.04-12.49.41:819][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.49.41:855][291]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_001ACFE4DD04D7B1C8777BD09BA614E8CB0.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.49.41:867][291]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.49.41:867][291]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.49.51:089][233]BlueprintLog: New page: Compile BP_Road_tile_001
+[2020.03.04-12.49.51:279][233]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.03.04-12.49.51:668][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.49.51:708][266]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_0018465B269400B85F8097D6292D0A4BCEA.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.49.51:726][266]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.49.51:726][266]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.49.56:239][627]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.03.04-12.49.58:347][806]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.03.04-12.49.58:352][806]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.03.04-12.50.10:608][969]LogSlate: Window 'Delete Variable' being destroyed
+[2020.03.04-12.50.14:165][345]BlueprintLog: New page: Compile BP_Road_tile_001
+[2020.03.04-12.50.14:172][345]LogClass: Warning: Type mismatch in RoadMesh of BP_Road_tile_001_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2020.03.04-12.50.14:354][345]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.03.04-12.50.14:951][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.50.14:985][399]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_001A8EA3E094C442911D5288DAB878AFD5E.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.50.15:003][399]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.50.15:003][399]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.50.51:874][367]BlueprintLog: New page: Collapse to Macro
+[2020.03.04-12.51.01:133][361]BlueprintLog: New page: Compile BP_Road_tile_001
+[2020.03.04-12.51.01:143][361]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.01:144][361]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.01:327][361]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.03.04-12.51.01:330][361]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.01:331][361]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.01:332][361]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.01:338][361]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.01:339][361]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.01:701][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.51.01:737][395]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_001499C9DEC41E50798B2838380D38E8C41.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.51.01:752][395]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.51.01:752][395]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.51.04:198][661]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.04:200][661]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.04:205][661]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.04:206][661]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.08:292][102]BlueprintLog: New page: Compile BP_Road_tile_001
+[2020.03.04-12.51.08:302][102]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.08:303][102]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.08:484][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.03.04-12.51.08:486][102]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.08:488][102]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.08:488][102]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.08:494][102]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.08:495][102]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.08:900][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.51.08:935][142]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_0013E42271C4DC6E2DD28015CA5A85CE028.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.51.08:948][142]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.51.08:948][142]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.51.18:544][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.51.18:545][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.52.05:265][922]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.52.05:266][922]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.52.33:286][756]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.52.33:302][756]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_44 via property SM_SR_Highway001_2w_Triple, but TRASH_StaticMeshComponent_44 is pending kill
+	BP_Road_tile_001_C /Engine/Transient.World_9:PersistentLevel.BP_Road_tile_001_C_0
+	Function /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C:UserConstructionScript:00B8
+[2020.03.04-12.52.33:302][756]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_44 via property SM_SR_Highway001_2w_Triple, but TRASH_StaticMeshComponent_44 is pending kill
+	BP_Road_tile_001_C /Engine/Transient.World_9:PersistentLevel.BP_Road_tile_001_C_0
+	Function /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C:UserConstructionScript:002A
+[2020.03.04-12.52.33:304][756]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.52.33:304][756]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_34 via property SM_SR_Highway001_2w_Triple, but TRASH_StaticMeshComponent_34 is pending kill
+	BP_Road_tile_001_C /Engine/Transient.World_2:PersistentLevel.BP_Road_tile_001_C_6
+	Function /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C:UserConstructionScript:00B8
+[2020.03.04-12.52.33:304][756]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_34 via property SM_SR_Highway001_2w_Triple, but TRASH_StaticMeshComponent_34 is pending kill
+	BP_Road_tile_001_C /Engine/Transient.World_2:PersistentLevel.BP_Road_tile_001_C_6
+	Function /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C:UserConstructionScript:002A
+[2020.03.04-12.52.58:756][260]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.52.58:756][260]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_44 via property SM_SR_Highway001_2w_Triple, but TRASH_StaticMeshComponent_44 is pending kill
+	BP_Road_tile_001_C /Engine/Transient.World_9:PersistentLevel.BP_Road_tile_001_C_0
+	Function /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C:UserConstructionScript:00B8
+[2020.03.04-12.52.58:756][260]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_44 via property SM_SR_Highway001_2w_Triple, but TRASH_StaticMeshComponent_44 is pending kill
+	BP_Road_tile_001_C /Engine/Transient.World_9:PersistentLevel.BP_Road_tile_001_C_0
+	Function /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C:UserConstructionScript:002A
+[2020.03.04-12.52.58:757][260]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.52.58:757][260]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_34 via property SM_SR_Highway001_2w_Triple, but TRASH_StaticMeshComponent_34 is pending kill
+	BP_Road_tile_001_C /Engine/Transient.World_2:PersistentLevel.BP_Road_tile_001_C_6
+	Function /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C:UserConstructionScript:00B8
+[2020.03.04-12.52.58:757][260]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_34 via property SM_SR_Highway001_2w_Triple, but TRASH_StaticMeshComponent_34 is pending kill
+	BP_Road_tile_001_C /Engine/Transient.World_2:PersistentLevel.BP_Road_tile_001_C_6
+	Function /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C:UserConstructionScript:002A
+[2020.03.04-12.53.03:620][758]BlueprintLog: New page: Compile BP_Road_tile_001
+[2020.03.04-12.53.03:631][758]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:631][758]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:631][758]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:632][758]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:632][758]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:632][758]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:814][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.03.04-12.53.03:817][758]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:817][758]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:817][758]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:818][758]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:818][758]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:818][758]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:819][758]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:819][758]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:819][758]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:824][758]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:824][758]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:824][758]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:825][758]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:826][758]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.03:826][758]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.04:164][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.53.04:201][789]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_001FFFDA580426EBF77C147F4B0FF069396.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.53.04:213][789]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.53.04:213][789]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.53.04:524][819]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.04:524][819]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.04:524][819]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.09:875][331]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.09:875][331]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.09:875][331]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.10:484][399]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.10:484][399]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.10:484][399]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:355][595]BlueprintLog: New page: Compile BP_Road_tile_001
+[2020.03.04-12.53.12:365][595]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:365][595]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:365][595]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:366][595]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:366][595]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:366][595]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:544][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.03.04-12.53.12:547][595]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:547][595]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:547][595]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:548][595]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:548][595]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:548][595]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:549][595]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:549][595]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:549][595]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:554][595]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:554][595]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:554][595]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:555][595]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:555][595]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:555][595]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:591][595]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:591][595]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.12:591][595]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.13:015][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.53.13:051][634]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_0017144674C48B0ED66A5FD1D9AECA5FE59.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.53.13:068][634]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.53.13:068][634]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.53.15:401][835]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.15:401][835]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.15:401][835]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.15:402][835]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.15:402][835]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.15:402][835]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.15:403][835]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.15:403][835]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.15:403][835]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.15:404][835]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.15:404][835]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.15:404][835]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.15:414][835]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.15:414][835]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.15:415][835]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:535][932]BlueprintLog: New page: Compile BP_Road_tile_001
+[2020.03.04-12.53.16:545][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:545][932]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:545][932]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:546][932]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:546][932]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:546][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:722][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.03.04-12.53.16:724][932]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:725][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:725][932]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:726][932]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:726][932]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:726][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:726][932]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:727][932]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:727][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:730][932]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:730][932]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:730][932]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:731][932]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:731][932]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:732][932]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:758][932]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:758][932]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.16:758][932]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.17:130][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.53.17:167][966]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_0014A2DD532467FBABEEF5AC5B0DBAE243E.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.53.17:180][966]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.53.17:180][966]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.53.18:885][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.18:885][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.18:885][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.18:886][101]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.18:886][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.18:886][101]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.18:887][101]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.18:887][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.18:887][101]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.18:888][101]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.18:888][101]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.18:888][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.18:899][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.18:899][101]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.18:899][101]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:935][202]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:935][202]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:935][202]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:945][203]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:945][203]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:945][203]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:957][204]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:957][204]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:957][204]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:968][205]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:968][205]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:968][205]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:980][206]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:980][206]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:980][206]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:992][207]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:992][207]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.19:992][207]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:004][208]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:004][208]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:004][208]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:016][209]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:016][209]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:016][209]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:027][210]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:027][210]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:027][210]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:049][212]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:049][212]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:049][212]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:062][213]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:062][213]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:062][213]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:075][214]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:075][214]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:075][214]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:088][215]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:088][215]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:088][215]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:117][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:117][218]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:117][218]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:128][219]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:129][219]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:129][219]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.20:989][308]BlueprintLog: New page: Compile BP_Road_tile_001
+[2020.03.04-12.53.21:000][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:000][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:000][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:001][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:001][308]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:001][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:183][308]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.03.04-12.53.21:185][308]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:185][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:185][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:187][308]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:187][308]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:187][308]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:187][308]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:187][308]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:187][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:191][308]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:191][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:191][308]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:192][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:192][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:192][308]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:224][308]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:224][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:224][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'RoadMesh' of length 0 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.21:598][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.53.21:633][343]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_001AE0CEA594CC88C55EAC9F286F8DA25CE.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.53.21:650][343]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.53.21:650][343]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.53.26:375][797]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 1 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.26:375][797]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 1 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.26:376][797]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 1 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.26:377][797]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'RoadMesh' of length 1 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.26:377][797]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 1 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.26:378][797]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 1 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.26:378][797]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 1 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.26:378][797]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 1 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.27:376][898]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoadMesh' of length 2 in '/Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001_C'!
+[2020.03.04-12.53.45:684][513]BlueprintLog: New page: Compile BP_Road_tile_001
+[2020.03.04-12.53.45:875][513]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.03.04-12.53.46:194][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.53.46:230][540]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_001BA7B1AB54B274BB218A0B893A484F270.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.53.46:244][540]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.53.46:244][540]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
+[2020.03.04-12.53.59:561][866]BlueprintLog: New page: Compile BP_Road_tile_001
+[2020.03.04-12.53.59:757][866]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.03.04-12.54.00:177][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Road_tile_001" FILE="../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset" SILENT=true
+[2020.03.04-12.54.00:213][901]LogSavePackage: Moving '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Saved/BP_Road_tile_001224313CC41E844C88D050EB2B27A2EEF.tmp' to '../../../../../DeDesktop/РАБОТА/Projects/WillSmith/Content/Blueprints/BP_Road_tile_001.uasset'
+[2020.03.04-12.54.00:230][901]AssetCheck: New page: Asset Save: BP_Road_tile_001
+[2020.03.04-12.54.00:230][901]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Road_tile_001.BP_Road_tile_001
